@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "high-Back Bench",
+        "price": 6.99,
+        "company": "Ikea",
+        "img": "1.png"
+    },
+    {
+        "id": 2,
+        "name": "Albany Table",
+        "price": 79.99,
+        "company": "Ikea",
+        "img": "2.png"
+    },
+    {
+        "id": 3,
+        "name": "Accent Chair",
+        "price": 25.99,
+        "company": "Ikea",
+        "img": "3.png"
+    },
+    {
+        "id": 4,
+        "name": "Wooden Table",
+        "price": 45.99,
+        "company": "Marcos",
+        "img": "4.png"
+    },
+    {
+        "id": 5,
+        "name": "Dining Table",
+        "price": 6.99,
+        "company": "Marcos",
+        "img": "5.png"
+    },
+    {
+        "id": 6,
+        "name": "Sofa Set",
+        "price": 69.99,
+        "company": "Marcos",
+        "img": "6.png"
+    },
+    {
+        "id": 7,
+        "name": "Modern Bookshelf",
+        "price": 8.99,
+        "company": "Caressa",
+        "img": "7.png"
+    },
+    {
+        "id": 8,
+        "name": "Emperor Bed",
+        "price": 21.99,
+        "company": "Caressa",
+        "img": "8.png"
+    },
+    {
+        "id": 9,
+        "name": "Utopia Sofa",
+        "price": 39.95,
+        "company": "Caressa",
+        "img": "9.png"
+    },
+    {
+        "id": 10,
+        "name": "Entertainment Center",
+        "price": 29.98,
+        "company": "Liddy",
+        "img": "10.png"
+    },
+    {
+        "id": 11,
+        "name": "Albany Sectional",
+        "price": 10.99,
+        "company": "Liddy",
+        "img": "11.png"
+    },
+    {
+        "id": 12,
+        "name": "Leather Sofa",
+        "price": 9.99,
+        "company": "Liddy",
+        "img": "12.png"
+    }
+]
